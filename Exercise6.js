@@ -55,8 +55,8 @@ for (let i = 1; i <= 100; i+=2) {
 
 console.log('100 kali perulangan kelipatan 3 selesai.' )
 
-// console.log('');
-// console.log('PERULANGAN KELIPATAN 6');
+console.log('');
+console.log('PERULANGAN KELIPATAN 6');
 
 for (let i = 1; i <= 100; i+=5) {
     if (i % 6 === 0) {
@@ -64,38 +64,15 @@ for (let i = 1; i <= 100; i+=5) {
     }  
 }
 
-// var count3tiga = 0
-// while (count3tiga <= 100) {count3tiga++
-//     count3tiga+= 5
 
-//     // count3tiga++
-//     // count3tiga++
-//     // count3tiga++
-//     // count3tiga++
-//     console.log(count3tiga + ' KELIPATAN 6' )
-// }
-// console.log('100 kali perulangan kelipatan 6 selesai.' )
-
-// console.log('');
-// console.log('PERULANGAN KELIPATAN 10');
+console.log('');
+console.log('PERULANGAN KELIPATAN 10');
 
 for (let i = 1; i <= 100; i+=9) {
     if (i % 10 === 0) {
         console.log(i +' KELIPATAN 10');
     }  
 }
-// var count3empat = 0
-// while (count3empat <= 100) {count3empat++
-//     count3empat++
-//     count3empat++
-//     count3empat++
-//     count3empat++
-//     count3empat++
-//     count3empat++
-//     count3empat++
-//     count3empat++
-//     count3empat++
-//     console.log(count3empat + ' KELIPATAN 10' )
-// }
+
 // console.log('100 kali perulangan kelipatan 10 selesai.' )
 
